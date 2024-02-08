@@ -1,5 +1,5 @@
 
-import panda as pd
+import pandasss as pd
 import yfinance as yf
 import matplotlib.pyplot as plt
 
