@@ -17,7 +17,7 @@ body {
    padding: 0;
 }
 body {
-   background-image: url('/static/images/bg1.jpg'); /* Specify the path to your image */
+   background-image: url('/static/images/pencils.jpg'); /* Specify the path to your image */
    background-size: cover; /* Cover the entire background */
    background-repeat: no-repeat; /* Do not repeat the image */
    background-position: center; /* Center the image */
